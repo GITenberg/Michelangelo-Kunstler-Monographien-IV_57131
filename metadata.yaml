@@ -1,5 +1,8 @@
 _repo: Michelangelo-Kunstler-Monographien-IV_57131
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57131-h/images/cover.jpg
 creator:
   author:
     agent_name: Knackfuss, H. (Hermann)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '37412'
     url: http://www.gutenberg.org/2009/agents/37412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57131#Michelangelo-Kunstler-Monographien-IV
 gutenberg_issued: '2018-05-10'
 gutenberg_type: Text
 identifiers:
